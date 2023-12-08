@@ -1,4 +1,21 @@
-### Hi there 👋
+Hi there 👋
+
+My name is Hermon and i am a front end developer from Oslo, Norway.
+
+My Skills 💼
+
+- HTML
+- CSS
+- Javascript
+- React
+- Wordpress
+
+Tools 🧰
+
+- Photoshop
+- Adobe illustrator
+- Adobe XD
+- Github
 
 <!--
 **hermon1/hermon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
